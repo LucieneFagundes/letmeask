@@ -47,6 +47,13 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ***
 
+<<<<<<< HEAD
 # Minha anotações:
 
 + Firebase está sendo utilizado por ter um banco de dados pronto e por ter a facilidade de criar o projeto em react sem focar no back-end.
+=======
+# Minha anotações: 
+
++ Firebase está sendo utilizado por ter um banco de dados pronto e por ter a facilidade de criar o projeto em react sem focar no back-end.
+
+>>>>>>> refs/remotes/origin/master
